@@ -41,8 +41,4 @@ I am an undergraduate Cyber Security student at Edinburgh Napier University, cur
 <summary><h3>👩‍💻 My Coding Journey</h3></summary>
 I began learning Python during my undergraduate studies, initially for penetration testing scripts, and later delved deeper through university coursework. As I explored Python's versatility, I started using it for web development, automation, and data analysis.
 
-In addition to my studies, I engaged in competitive coding platforms like CodeWars and LeetCode, which allowed me to sharpen my problem-solving skills and better understand different algorithms and data structures.
-
-While still an undergraduate, I've participated in projects and collaborated with others to create tools that benefit the cybersecurity community. This experience has inspired me to pursue the dream of building my own cybersecurity product.
-
-[website]: https://patrickacheson.uk
+In addition to my studies, I engaged in competitive coding platforms like CodeWars and LeetCode, which allowed me to sharpen my problem-solving skills and better understand different algorithms and data structures. [website]: https://patrickacheson.uk
