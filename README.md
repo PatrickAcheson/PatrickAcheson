@@ -32,13 +32,4 @@ I am an undergraduate Cyber Security student at Edinburgh Napier University, cur
 ### 📊 Stats
 
 ![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickAcheson&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=PatrickAcheson&theme=gruvbox&border_radius=4.5) -->
-
 #
-
-<details>
-<summary><h3>👩‍💻 My Coding Journey</h3></summary>
-I began learning Python during my undergraduate studies, initially for penetration testing scripts, and later delved deeper through university coursework. As I explored Python's versatility, I started using it for web development, automation, and data analysis.
-
-In addition to my studies, I engaged in competitive coding platforms like CodeWars and LeetCode, which allowed me to sharpen my problem-solving skills and better understand different algorithms and data structures. [website]: https://patrickacheson.uk
