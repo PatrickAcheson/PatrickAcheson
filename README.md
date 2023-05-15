@@ -2,7 +2,7 @@
 
 **`Undergraduate Cyber Security Student`**
 
-I am an undergraduate Cyber Security student at Edinburgh Napier University, currently on track for a first-class honours degree. In my free time, I dive into web development side projects, improving my skills in Python and JavaScript, while also participating in capture the flag competitions on platforms such as HackTheBox and TryHackMe. Eager to continue learning and growing in this field.
+Hey, I'm studying Cyber Security at Edinburgh Napier University, and things are going pretty well - I'm on track for first-class honours. When I'm not deep in studies, I like to tinker with web development projects, practicing Python and JavaScript. I also participate in capture the flag challenges on platforms like HackTheBox and TryHackMe. Always looking forward to learning more in this field.
 <p align="left">
    <a href="https://www.linkedin.com/in/patrick-acheson-8153a5205/">
       <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
