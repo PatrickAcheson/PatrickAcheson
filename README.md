@@ -2,7 +2,7 @@
 
 **`Undergraduate Cyber Security Student`**
 
-Hi, I'm studying Cyber Security at Edinburgh Napier University, and things are going pretty well - I'm on track for first-class honours. When I'm not deep in studies, I like to tinker with web development projects, practicing Python and JavaScript. I also participate in capture the flag challenges on platforms like HackTheBox and TryHackMe. Always looking forward to learning more in this field.
+Hi, I'm studying Cyber Security at Edinburgh Napier University, and things are going well so far - I'm on track for first-class honours. When I'm not deep in studies, I like to tinker with cybersec related projects, practicing ethical hacking, webdev and programming. I also participate in capture the flag challenges on platforms like HackTheBox and TryHackMe. Always looking forward to learning more in this field.
 <p align="left">
    <a href="https://www.linkedin.com/in/patrick-acheson-8153a5205/">
       <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
@@ -27,9 +27,3 @@ Hi, I'm studying Cyber Security at Edinburgh Napier University, and things are g
 
 <br clear="left" />
 <br />
-
-
-### 📊 Stats
-
-![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickAcheson&show_icons=true&theme=gruvbox)
-#
