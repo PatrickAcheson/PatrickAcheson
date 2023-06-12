@@ -8,8 +8,6 @@ Hi, I'm studying Cyber Security at Edinburgh Napier University, and things are g
       <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
    <a href="https://github.com/PatrickAcheson?tab=followers">
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/PatrickAcheson?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-   <a href="https://github.com/PatrickAcheson?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/PatrickAcheson?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
 ---
