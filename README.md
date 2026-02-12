@@ -1,6 +1,6 @@
-# 🎓 Patrick Acheson
+# Patrick Acheson
 
-**`Undergraduate Cyber Security Student`**
+**`Grad InfoSec Engineer`**
 
 <p align="left">
    <a href="https://www.linkedin.com/in/patrick-acheson-8153a5205/">
